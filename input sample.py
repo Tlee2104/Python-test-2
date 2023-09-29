@@ -2,6 +2,6 @@ Python 3.11.4 (tags/v3.11.4:d2340ef, Jun  7 2023, 05:45:37) [MSC v.1934 64 bit (
 Type "help", "copyright", "credits" or "license()" for more information.
 >>> name = input('Enter your name:')
 Enter your name:
->>> print ('Your name is: + name)
+>>> print ('Your name is': + name)
 ...        
 SyntaxError: incomplete input
